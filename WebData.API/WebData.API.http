@@ -1,0 +1,6 @@
+@WebData.API_HostAddress = http://localhost:5153
+
+GET {{WebData.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
